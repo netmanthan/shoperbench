@@ -74,7 +74,7 @@ def init(
 
 	# remote apps
 	else:
-		frappe_path = frappe_path or "https://github.com/netmanthan/shoperbench.git"
+		frappe_path = frappe_path or "https://github.com/netmanthan/shoperframeworks.git"
 		is_valid_frappe_branch(frappe_path=frappe_path, frappe_branch=frappe_branch)
 		get_app(
 			frappe_path,
