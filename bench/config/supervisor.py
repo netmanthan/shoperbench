@@ -120,7 +120,7 @@ def can_enable_multi_queue_consumption(bench_path: str) -> bool:
 def check_supervisord_config(user=None):
 	"""From bench v5.x, we're moving to supervisor running as user"""
 	# i don't think bench should be responsible for this but we're way past this now...
-	# removed updating supervisord conf & reload in Aug 2022 - gavin@frappe.io
+	# removed updating supervisord conf & reload in Aug 2022 - gavin@shopersolutions.com
 	import configparser
 
 	if not user:

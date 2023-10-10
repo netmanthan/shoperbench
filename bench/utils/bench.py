@@ -463,7 +463,7 @@ def update(
 
 	print(
 		"_" * 80 + "\nBench: Deployment tool for Frappe and Frappe Applications"
-		" (https://frappe.io/bench).\nOpen source depends on your contributions, so do"
+		" (https://shopersolutions.com/bench).\nOpen source depends on your contributions, so do"
 		" give back by submitting bug reports, patches and fixes and be a part of the"
 		" community :)"
 	)

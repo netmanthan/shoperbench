@@ -120,7 +120,7 @@ In case the setup fails, the log file is saved under `$HOME/easy-install.log`. Y
 
 ### Manual Installation
 
-Some might want to manually setup a bench instance locally for development. To quickly get started on installing bench the hard way, you can follow the guide on [Installing Bench and the Frappe Framework](https://frappe.io/docs/user/en/installation).
+Some might want to manually setup a bench instance locally for development. To quickly get started on installing bench the hard way, you can follow the guide on [Installing Bench and the Frappe Framework](https://shopersolutions.com/docs/user/en/installation).
 
 You'll have to set up the system dependencies required for setting up a Frappe Environment. Checkout [docs/installation](https://github.com/frappe/bench/blob/develop/docs/installation.md) for more information on this. If you've already set up, install bench via pip:
 
@@ -186,25 +186,25 @@ If you wish to extend the capabilities of bench with your own custom Frappe Appl
 
 ## Guides
 
-- [Configuring HTTPS](https://frappe.io/docs/user/en/bench/guides/configuring-https.html)
-- [Using Let's Encrypt to setup HTTPS](https://frappe.io/docs/user/en/bench/guides/lets-encrypt-ssl-setup.html)
-- [Diagnosing the Scheduler](https://frappe.io/docs/user/en/bench/guides/diagnosing-the-scheduler.html)
-- [Change Hostname](https://frappe.io/docs/user/en/bench/guides/adding-custom-domains)
-- [Manual Setup](https://frappe.io/docs/user/en/bench/guides/manual-setup.html)
-- [Setup Production](https://frappe.io/docs/user/en/bench/guides/setup-production.html)
-- [Setup Multitenancy](https://frappe.io/docs/user/en/bench/guides/setup-multitenancy.html)
+- [Configuring HTTPS](https://shopersolutions.com/docs/user/en/bench/guides/configuring-https.html)
+- [Using Let's Encrypt to setup HTTPS](https://shopersolutions.com/docs/user/en/bench/guides/lets-encrypt-ssl-setup.html)
+- [Diagnosing the Scheduler](https://shopersolutions.com/docs/user/en/bench/guides/diagnosing-the-scheduler.html)
+- [Change Hostname](https://shopersolutions.com/docs/user/en/bench/guides/adding-custom-domains)
+- [Manual Setup](https://shopersolutions.com/docs/user/en/bench/guides/manual-setup.html)
+- [Setup Production](https://shopersolutions.com/docs/user/en/bench/guides/setup-production.html)
+- [Setup Multitenancy](https://shopersolutions.com/docs/user/en/bench/guides/setup-multitenancy.html)
 - [Stopping Production](https://github.com/frappe/bench/wiki/Stopping-Production-and-starting-Development)
 
-For an exhaustive list of guides, check out [Bench Guides](https://frappe.io/docs/user/en/bench/guides).
+For an exhaustive list of guides, check out [Bench Guides](https://shopersolutions.com/docs/user/en/bench/guides).
 
 
 ## Resources
 
-- [Bench Commands Cheat Sheet](https://frappe.io/docs/user/en/bench/resources/bench-commands-cheatsheet.html)
-- [Background Services](https://frappe.io/docs/user/en/bench/resources/background-services.html)
-- [Bench Procfile](https://frappe.io/docs/user/en/bench/resources/bench-procfile.html)
+- [Bench Commands Cheat Sheet](https://shopersolutions.com/docs/user/en/bench/resources/bench-commands-cheatsheet.html)
+- [Background Services](https://shopersolutions.com/docs/user/en/bench/resources/background-services.html)
+- [Bench Procfile](https://shopersolutions.com/docs/user/en/bench/resources/bench-procfile.html)
 
-For an exhaustive list of resources, check out [Bench Resources](https://frappe.io/docs/user/en/bench/resources).
+For an exhaustive list of resources, check out [Bench Resources](https://shopersolutions.com/docs/user/en/bench/resources).
 
 
 ## Development
